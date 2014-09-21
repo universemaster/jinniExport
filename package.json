@@ -1,0 +1,19 @@
+{
+  "name": "jinniExport",
+  "author": "Soullesswaffle",
+  "version": "1.0.0",
+  "description": "A simple node app that exports all your jinni.com ratings to a JSON file",
+  "license": "Unlicense",
+  "homepage": "https://github.com/Soullesswaffle/jinniExport",
+  "bugs": "https://github.com/Soullesswaffle/jinniExport/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoullessWaffle/jinniExport.git"
+  },
+  "private": true,
+  "dependencies": {
+    "jquery": "2.1.x",
+    "casperjs": "1.1.x"
+  },
+  "main": "app.coffee"
+}
